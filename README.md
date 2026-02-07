@@ -1,8 +1,12 @@
+Hello, I'm Satpal Singh
+ Always Learning, Always Building
+
+
 ## 👨‍💻 About Me
 
 * Engineering student @ **NIT Raipur**
 * Focused on **Web Development** and **DSA**
-* Building real-world, frontend-first projects
+* Building real-world, full stack projects
 * Exploring **AI/ML** as a supporting skill
 
 ## 🌐 Socials:
