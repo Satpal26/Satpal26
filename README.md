@@ -1,6 +1,8 @@
-Hello, I'm Satpal Singh
- Always Learning, Always Building
-
+<!-- Header Section with Name and Tagline -->
+<h2 align="center">Hello, I'm Satpal Singh </h2>
+<p align="center" >
+  <strong>Always Learning, Always Building</strong>
+</p>
 
 ## 👨‍💻 About Me
 
